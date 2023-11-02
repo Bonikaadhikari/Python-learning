@@ -1,4 +1,4 @@
-#This is my first day of revision in basics of Python. 
+#This is my first day of revision in basics of Python for PhiCoders. 
 #Today i will go for variable, data type, taking user input and printing output
 
 #Variables and datatypes

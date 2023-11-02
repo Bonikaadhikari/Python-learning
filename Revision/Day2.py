@@ -1,4 +1,4 @@
-#This is my second day of revision in basics of Python. 
+#This is my second day of revision in basics of Python for PhiCoders. 
 #Today i will go with conditional statements, operators, lists and dictonaries.
 
 #conditional statements
