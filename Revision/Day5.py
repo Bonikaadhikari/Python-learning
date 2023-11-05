@@ -1,5 +1,5 @@
 #This is my Fifth day of revision in basics of Python for PhiCoders. 
-#Today i will go with Lists.
+#Today i will go with Lists and Sets.
 
 
 #lists
@@ -15,8 +15,15 @@ print(colors[1])
 print(colors[2])
 print(colors[3])
 print(colors[4])
-
 if "White" in colors:
     print("Yes")
 else:
     print("No")
+
+#Sets
+s = { 2, 4, 5, 2, 9}
+print(s)
+#Set doesn't maintain order of data items.
+name = {"Bonika", "Shreya", "Shrutee", "Sandip", "Shreya"}
+print(name)
+print(type(name))
