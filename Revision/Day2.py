@@ -1,5 +1,5 @@
 #This is my second day of revision in basics of Python for PhiCoders. 
-#Today i will go with conditional statements, operators, lists and dictonaries.
+#Today i will go with conditional statements, operators and dictonaries.
 
 # #conditional statements
 # a = int(input("Enter a number"))
@@ -31,10 +31,6 @@
 # ans5 = (x % y)
 # print("Modulus of", x, "and", y, "is", ans5)
 
-# #lists
-# list1 = [(2, 4, 3), ["Apple", "Banana", "Mango"]]
-# print(list1)
-
 
 #dictonaries
 dict = {"name":"Bonika", "Age":"21", "CanVote":"True"}
@@ -58,3 +54,4 @@ dic = {
     "snake": "reptile"
 }
 print(dic["snake"])
+
