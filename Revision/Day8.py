@@ -1,7 +1,7 @@
 #This is my Day-8 of revision in basics of Python for PhiCoders. 
-#Today i will go with break and continue loop.
+#Today i will go with break and continue Statement.
 
-#Break and Continue Loop
+#Break and Continue Statement
 #Break
 for i in range(12):
     if(i==10):
