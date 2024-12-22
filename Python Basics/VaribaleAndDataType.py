@@ -10,7 +10,8 @@ list1 = [(2, 4, 3), ["Apple", "Banana", "Mango"]]
 print(list1)
 
 #Tuple
-
+tup1 = (1,2)
+print(f"The type of tup1 is {type(tup1)}")
 
 #Dictonary
 dict1 = {"name":"Bonika", "Age":"21", "CanVote":"True"}
